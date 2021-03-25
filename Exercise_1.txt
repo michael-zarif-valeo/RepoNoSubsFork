@@ -1,4 +1,5 @@
 1. create a text file named after you
 2. add any text to it
 3.commit your change
-4.push to the main branch
+4. store your credentials using "git config credential.helper store"
+5.push to the main branch
