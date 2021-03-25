@@ -1,0 +1,7 @@
+1. pull the latest repo changes
+2. create a text file named "feature_YOURNAME.txt"
+3. write dummy text to it
+4. commit your changes
+5. create a text file named "feature_YOURNAME_cont.txt"
+6. use the --amend option to commit your new file to the same commit
+7. push your changes

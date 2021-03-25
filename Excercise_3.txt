@@ -1,0 +1,8 @@
+1. pull the latest repo changes
+2. create a text file named "Wanted_YOURNAME.txt"
+3. write dummy text to it
+4. create a text file named "Unwanted_YOURNAME.txt"
+5. commit your changes
+6. use the reset command to remove only the "Unwanted" file
+7. commit your changes ( the new commit shall only include "Wanted_YOURNAME.txt" )
+8. push

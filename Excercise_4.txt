@@ -1,0 +1,12 @@
+/////////////////// This excercise is clustered by projects		         //////////////////////
+/////////////////// DCDC, IBSG, GMG 					        ///////////////////
+/////////////////// the word "yourTeam" shall be replaced by DCDC, IBSG or GMG ///////////////////
+
+1. pull the latest repo changes
+2. create a text file named "yourTeam.txt"
+3. write dummy text to it
+5. commit your changes ( each team member, try to add a unique commit message )
+6. push your changes
+7. pull the latest changes again 
+8. Conflicts will be raised
+9. work on resolving them
